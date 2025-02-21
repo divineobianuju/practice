@@ -9,6 +9,7 @@ const calcGp = document.querySelector("#calc-gp");
 const clear = document.querySelector("#clear");
 
 let gpArry = [];
+Aboki was here
 
 add.addEventListener("click", () => {
   if (
